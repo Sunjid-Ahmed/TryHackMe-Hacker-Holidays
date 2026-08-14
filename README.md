@@ -39,7 +39,7 @@ day-14/README.md
 | 14  | Management Wants a Word | Forensics| 🟩 |
 
 
-<img width="618" height="356" alt="image" src="https://github.com/user-attachments/assets/e45e3589-9b88-4066-8ac8-0ae2e57c4c7d" />
+<img width="618" height="356" alt="image" src="https://github.com/Sunjid-Ahmed/TryHackMe-Hacker-Holidays/blob/main/THM-HPGKBFSEUF.png" />
 
 
 ## Disclaimer
